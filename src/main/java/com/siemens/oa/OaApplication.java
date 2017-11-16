@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class OaApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(OaApplication.class, args);
-		System.out.println(" ");
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(OaApplication.class, args);
+        System.out.println("徐进");
+    }
 }
